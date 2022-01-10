@@ -1,0 +1,10 @@
+dog:pet
+flyer:noun
+house:building
+jump:verb
+pen:object
+pizza:food
+python:programming-language
+qwe:123
+water:drink
+wolf:wild-animals

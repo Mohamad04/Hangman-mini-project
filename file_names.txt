@@ -1,0 +1,3 @@
+mohammad:50
+hala:200
+ali:0
